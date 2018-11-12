@@ -1,0 +1,18 @@
+{
+  "name": "grabme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kyrylonazarenko/grabme.git",
+  "author": "kirillnazarenko <kirill.nazarenko@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "boom": "^7.2.2",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.0",
+    "lodash": "^4.17.11",
+    "migrate-mongo": "^4.1.2",
+    "mongoose": "^5.3.11",
+    "recursive-readdir": "^2.2.2"
+  }
+}
